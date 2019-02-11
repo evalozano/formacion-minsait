@@ -1,0 +1,14 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/logs/
+.DS_Store
+.DS_Store?
+.idea
+.vscode/
+src/main/webapp/META-INF/
+
+/bin/
+
+
